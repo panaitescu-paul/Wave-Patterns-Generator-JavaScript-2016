@@ -1,0 +1,45 @@
+
+body {
+  background-color: rgb(255, 255, 255);
+  line-height: 30px;
+  bottom: -40px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 200;
+  font-size: 12px;
+  letter-spacing: 0.5px; 
+  text-transform: uppercase;
+  color: rgb(61, 61, 61);
+}
+
+.container {
+  height: 100%;
+  width: 1000px;
+  display: block;
+}
+
+.panel1 {
+  width: 1000px;
+  height: 300px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+}
+
+.subtitles {
+  width: 50px;
+  float: left;
+  position: absolute;
+  left: -130px;
+  display: block;
+  margin-top: 10px;
+}
+
+.subtitle {
+  float: left;
+  height: 102px;
+}
+
+
+
