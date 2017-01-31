@@ -1,4 +1,5 @@
 # Graph Samples
+Draw patterns with modified SIN and COS formulas.
 
 - multiple patterns for drawing graphs
 - modified SIN and COS formulas
