@@ -1,6 +1,6 @@
 # Graph Samples
 
-- multiple formulas for drawing graphs
+- multiple patterns for drawing graphs
 - modified SIN and COS formulas
 
 
