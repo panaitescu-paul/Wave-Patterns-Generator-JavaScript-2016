@@ -1,4 +1,4 @@
-# Graph Samples
+# Wave Patterns Generator - JavaScript - 2016
 Draw patterns with modified SIN and COS formulas.
 
 - multiple patterns for drawing graphs
