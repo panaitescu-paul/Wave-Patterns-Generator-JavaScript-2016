@@ -1,5 +1,5 @@
 # Wave Patterns Generator - JavaScript - 2016
-Draw patterns with modified SIN and COS formulas.
+Generate and draw a Patterns based on SIN and COS formulas.
 
 ## Features:
 - Multiple patterns for drawing graphs
