@@ -13,6 +13,6 @@
 ## Tools:
 - Sublime Text
 
-### Preview
+## Preview
 
 ![alt tag](https://github.com/panaitescu-paul/graph-samples/blob/master/Process/1.png) 
